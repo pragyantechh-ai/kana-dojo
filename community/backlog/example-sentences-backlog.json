@@ -123,7 +123,7 @@
     "jlpt": "N2",
     "id": 14,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "漢字の意味を文脈で推測する力が大切だ。",
@@ -186,7 +186,7 @@
     "jlpt": "N5",
     "id": 21,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "駅の近くに新しいカフェができました。",
@@ -195,7 +195,7 @@
     "jlpt": "N4",
     "id": 22,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "雨が降りそうだから、傘を持って行こう。",
@@ -204,7 +204,7 @@
     "jlpt": "N4",
     "id": 23,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "この漢字の読み方を教えてください。",
@@ -249,7 +249,7 @@
     "jlpt": "N3",
     "id": 28,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "日本のニュースを毎日読むようにしています。",
@@ -258,7 +258,7 @@
     "jlpt": "N3",
     "id": 29,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "分からない単語は辞書で調べてから質問してください。",
@@ -267,7 +267,7 @@
     "jlpt": "N4",
     "id": 30,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "来月から新しいプロジェクトに参加することになりました。",
@@ -294,7 +294,7 @@
     "jlpt": "N4",
     "id": 33,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "この表現は場面によって失礼に聞こえることがある。",
@@ -348,7 +348,7 @@
     "jlpt": "N3",
     "id": 39,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "彼女は忙しいはずなのに、いつも丁寧に返信してくれる。",
@@ -356,7 +356,7 @@
     "english": "Even though she must be busy, she always replies politely.",
     "jlpt": "N2",
     "id": 40,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -726,7 +726,7 @@
     "jlpt": "N5",
     "id": 81,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "駅の近くに新しいカフェができました。",
@@ -735,7 +735,7 @@
     "jlpt": "N4",
     "id": 82,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "雨が降りそうだから、傘を持って行こう。",
@@ -744,7 +744,7 @@
     "jlpt": "N4",
     "id": 83,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "この漢字の読み方を教えてください。",
@@ -762,7 +762,7 @@
     "jlpt": "N4",
     "id": 85,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "もし時間があれば、一緒に復習しませんか。",

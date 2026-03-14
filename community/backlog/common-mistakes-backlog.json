@@ -367,7 +367,7 @@
     "explanation": "で marks location of action. (Pattern set 3)",
     "id": 46,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "私は昨日東京に行きます。",
@@ -471,7 +471,7 @@
     "explanation": "Prefer noun linkage with の. (Pattern set 3)",
     "id": 59,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "私はお金がありませんです。",
@@ -479,7 +479,7 @@
     "explanation": "Negative polite form already complete. (Pattern set 3)",
     "id": 60,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "私は日本語を話しますです。",
@@ -487,7 +487,7 @@
     "explanation": "Do not stack ます and です in one predicate. (Pattern set 4)",
     "id": 61,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "日本語が好きをです。",
@@ -511,7 +511,7 @@
     "explanation": "い-adjectives do not take だ in plain present. (Pattern set 4)",
     "id": 64,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "先生は私を日本語を教えました。",
@@ -519,7 +519,7 @@
     "explanation": "Recipient takes に with 教える. (Pattern set 4)",
     "id": 65,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "図書館に本を借りました。",
